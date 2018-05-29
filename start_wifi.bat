@@ -5,3 +5,4 @@ netsh wlan start hostednetwork
 pause
 echo SSID or WI-FI name is WI-FI hotspot
 echo KEY or password for the WI-FI is P@$$w0rd
+pause
